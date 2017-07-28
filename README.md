@@ -9,7 +9,7 @@ Using in Android Studio
 =======================
 
 Some of the projects should have a `build.gradle` file suitable for
-importing the project into Android Studio. If not please send a pull request to add one.
+importing the project into `Android Studio`. If not please send a pull request to add one.
 
 Note, though, that you
 may need to adjust the `compileSdkVersion` in `build.gradle` if it
